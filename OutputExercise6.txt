@@ -1,0 +1,8 @@
+anonymous block completed
+Number of orders and total amount ordered between the period of 01 January 2022 and 31 August 2022
+Supplier Name : PEGASUS LTD
+Supplier Contact Name : Georges Neeroo
+Supplier Contact No. 1 : 461-5841
+Supplier Contact No. 2 : 5741-2545
+Total Orders : 16
+Order Total Amount : 275,000.00
