@@ -4,8 +4,6 @@ Execute the file “DB_Prequisite.sql” which will enable you to create the tab
 
 Execute the file “TABLE CREATION.sql” which will create the tables below : “XXBCM_SUPPLIER_TBL” contains all the suppliers details, “XXBCM_ORDER_TBL” contains all the supplier's order details and “XXBCM_INVOICE_TBL” contains all the order's invoices details
 
-Compile the package PCG_XXBCM_ORDER from the file PCG_XXBCM_ORDER.sql – This will enable you to create the procedures PROC_XXBCM_ORDER_CLEAR, PROC_XXBCM_SUPPLIER and PROC_XXBCM_TRANSACTION.
-
 Execute the file “DataMigration.sql which will use the package and procedure create in step 3 to insert data in the tables created in step2
 
 TASK 4: execute the file “ORD_SUMMARY.sql” – This will display the summary of Orders with their corresponding list of distinct invoices and their total amount.
