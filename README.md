@@ -1,4 +1,6 @@
-# MCB-SQL-Assessment
+# MCB-SQL-Assessment :
+
+Tool used : ORACLE SQL DEVELOPER
 
 Execute the file “DB_Prequisite.sql” which will enable you to create the table “XXBCM_ORDER_MGT” and inserts all the data.
 
